@@ -14,8 +14,8 @@ void draw(){
   ellipse(200,200,400,500)
   ellipse(100,100,100,50)
   ellipse(300,100,100,50)
-  rect(100,200,300,200,300)  
-
+  rect(163,130,75,105)  
+ triangle(100,100,100,100,200,10)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
