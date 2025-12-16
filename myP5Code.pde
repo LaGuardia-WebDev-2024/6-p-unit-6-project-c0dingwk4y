@@ -11,11 +11,18 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  ellipse(200,200,400,500)
-  ellipse(100,100,100,50)
-  ellipse(300,100,100,50)
-  rect(163,130,75,105)  
- triangle(100,100,100,100,200,10)
+
+
+  fill(245, 207, 20)
+  rect(100,100,170,200)
+  fill(242, 239, 225)
+  ellipse(150,150,70,90)
+  ellipse(235,150,70,90)
+  ellipse(135,150,40,70)
+  fill(123, 180, 227)
+  ellipse(135,150,40,70)
+  fill(123, 180, 227)
+  ellipse(220,150,40,70)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
